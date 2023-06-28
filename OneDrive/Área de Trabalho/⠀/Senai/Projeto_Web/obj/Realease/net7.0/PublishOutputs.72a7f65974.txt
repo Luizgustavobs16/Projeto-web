@@ -1,0 +1,13 @@
+C:\Users\luizg\OneDrive\Área de Trabalho\⠀\Senai\Projeto_Web\bin\Realease\net7.0\publish\Projeto_Web.exe
+C:\Users\luizg\OneDrive\Área de Trabalho\⠀\Senai\Projeto_Web\bin\Realease\net7.0\publish\appsettings.Development.json
+C:\Users\luizg\OneDrive\Área de Trabalho\⠀\Senai\Projeto_Web\bin\Realease\net7.0\publish\appsettings.json
+C:\Users\luizg\OneDrive\Área de Trabalho\⠀\Senai\Projeto_Web\bin\Realease\net7.0\publish\Projeto_Web.dll
+C:\Users\luizg\OneDrive\Área de Trabalho\⠀\Senai\Projeto_Web\bin\Realease\net7.0\publish\Projeto_Web.deps.json
+C:\Users\luizg\OneDrive\Área de Trabalho\⠀\Senai\Projeto_Web\bin\Realease\net7.0\publish\Projeto_Web.runtimeconfig.json
+C:\Users\luizg\OneDrive\Área de Trabalho\⠀\Senai\Projeto_Web\bin\Realease\net7.0\publish\Projeto_Web.pdb
+C:\Users\luizg\OneDrive\Área de Trabalho\⠀\Senai\Projeto_Web\bin\Realease\net7.0\publish\System.Data.SqlClient.dll
+C:\Users\luizg\OneDrive\Área de Trabalho\⠀\Senai\Projeto_Web\bin\Realease\net7.0\publish\runtimes\win-arm64\native\sni.dll
+C:\Users\luizg\OneDrive\Área de Trabalho\⠀\Senai\Projeto_Web\bin\Realease\net7.0\publish\runtimes\win-x64\native\sni.dll
+C:\Users\luizg\OneDrive\Área de Trabalho\⠀\Senai\Projeto_Web\bin\Realease\net7.0\publish\runtimes\win-x86\native\sni.dll
+C:\Users\luizg\OneDrive\Área de Trabalho\⠀\Senai\Projeto_Web\bin\Realease\net7.0\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\luizg\OneDrive\Área de Trabalho\⠀\Senai\Projeto_Web\bin\Realease\net7.0\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

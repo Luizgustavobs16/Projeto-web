@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "Oib9fFDYzuqys4LT+NvVK/Z4SuIZup7b31wPXjHUOA0=",
+  "Source": "Projeto_Web",
+  "BasePath": "_content/Projeto_Web",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Projeto_Web\\wwwroot",
+      "Source": "Projeto_Web",
+      "ContentRoot": "C:\\Users\\luizg\\OneDrive\\Área de Trabalho\\⠀\\Senai\\Projeto_Web\\wwwroot\\",
+      "BasePath": "_content/Projeto_Web",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\luizg\\OneDrive\\Área de Trabalho\\⠀\\Senai\\Projeto_Web\\wwwroot\\index.html",
+      "SourceId": "Projeto_Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\luizg\\OneDrive\\Área de Trabalho\\⠀\\Senai\\Projeto_Web\\wwwroot\\",
+      "BasePath": "_content/Projeto_Web",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

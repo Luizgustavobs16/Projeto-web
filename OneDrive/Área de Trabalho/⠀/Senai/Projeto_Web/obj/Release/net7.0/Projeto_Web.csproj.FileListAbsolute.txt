@@ -1,0 +1,6 @@
+C:\Users\luizg\OneDrive\Área de Trabalho\⠀\Senai\Projeto_Web\obj\Release\net7.0\Projeto_Web.csproj.AssemblyReference.cache
+C:\Users\luizg\OneDrive\Área de Trabalho\⠀\Senai\Projeto_Web\obj\Release\net7.0\Projeto_Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizg\OneDrive\Área de Trabalho\⠀\Senai\Projeto_Web\obj\Release\net7.0\Projeto_Web.AssemblyInfoInputs.cache
+C:\Users\luizg\OneDrive\Área de Trabalho\⠀\Senai\Projeto_Web\obj\Release\net7.0\Projeto_Web.AssemblyInfo.cs
+C:\Users\luizg\OneDrive\Área de Trabalho\⠀\Senai\Projeto_Web\obj\Release\net7.0\Projeto_Web.csproj.CoreCompileInputs.cache
+C:\Users\luizg\OneDrive\Área de Trabalho\⠀\Senai\Projeto_Web\obj\Release\net7.0\Projeto_Web.MvcApplicationPartsAssemblyInfo.cache
